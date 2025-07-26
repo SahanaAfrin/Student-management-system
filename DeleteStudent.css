@@ -1,0 +1,41 @@
+.delete-student-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+}
+
+.delete-student-container h1 {
+    margin-bottom: 20px;
+}
+
+.delete-student-container input {
+    margin: 10px 0;
+    padding: 10px;
+    width: 300px;
+}
+
+.delete-student-container button {
+    padding: 10px 20px;
+    margin: 10px 0;
+}
+
+.delete-student-container p {
+    color: green;
+    font-weight: bold;
+}
+
+.delete-student-container h2 {
+    margin-top: 20px;
+}
+
+.delete-student-container table {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+.delete-student-container th, .delete-student-container td {
+    border: 2px solid black;
+    padding: 10px;
+}
